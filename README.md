@@ -1,2 +1,3 @@
 # EmbeddedTransformerAssignment
 Assignment1
+python trainandgenerate.py
